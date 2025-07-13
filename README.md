@@ -1,4 +1,4 @@
-# Crypto Sentiment Collector ( Historical Data and Real-Time Updating )
+# Crypto Sentiment Collector ( Historical Data and Real-Time Updating ) - AI Trading Data Ingestion
 
 A modular, asynchronous Python application to collect, analyze, and store cryptocurrency-related sentiment data from multiple sources including CryptoPanic, Reddit, CoinMarketCap (CMC), Twitter, and a Trump RSS feed. The project leverages FinBERT, a financial sentiment analysis model, to provide sentiment scoring on the collected textual data.
 
